@@ -1,0 +1,13 @@
+{
+    "name": "esmi/webutil",
+    "description": "utils for web",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "esmi",
+            "email": "evansmile@gmail.com"
+        }
+    ],
+    "require": {}
+}
